@@ -14,5 +14,5 @@ In order to make the seed more reproducible, the set.seed fucntion can also be u
 
 
 **Question4.3**  
-**Edit the script to make a reproducible simulation of Brownian motion. Commit the file and push it to your forked reproducible-research homework repo.**
+**Edit the script to make a reproducible simulation of Brownian motion. Commit the file and push it to your forked reproducible-research homework repo.**  
 To create a reproducible simulation of Brownian motion, an initial seed must be inputted into the code which determines the point from which the rest of the code is executed. This allows "randomness" to still be achieved between the plots of random walks, however also allows the same plot to be reproduced therefore increasing the reliability and replicability of the code. 
